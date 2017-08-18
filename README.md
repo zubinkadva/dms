@@ -1,11 +1,22 @@
 # Document Management System (DMS)
 
-My final year Master Of Computer Applications (MCA) internship project developed (not entirely by me) for dMACQ Software Private Ltd.
+## When?
 
-It uses PHP as front end interface and MySQL for back end storage.
+6th semester - 3rd (final) year - Internship at dMACQ Software Private Ltd., My final year Master Of Computer Applications (MCA), 2014-15
 
-It is management of company documents using rule based access techniques.
+## What?
 
-It uses advanced web technologies viz. HTML5, CSS, Javascript, jQuery, AJAX, Perl.
+- Management of company documents using rule based access techniques.
 
-This repository does not contain any code, simply documentation stuff; but nevertheless, since I have done work, it is part of my github repositories.
+## Technologies
+
+- PHP
+- MySQL
+- HTML5
+- CSS
+- Javascript
+- jQuery
+- AJAX
+- Perl
+
+*This repository does not contain any code, simply documentation stuff; but nevertheless, since I have done work, it is part of my github repositories*
