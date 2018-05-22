@@ -2,11 +2,12 @@
 
 ## When?
 
-6th semester - 3rd (final) year - Internship at dMACQ Software Private Ltd., My final year Master Of Computer Applications (MCA), 2014-15
+6th semester - 3rd (final) year - Internship at dMACQ Software Private Ltd., My final year Master Of Computer Applications (MCA) project, 2014-15
 
 ## What?
 
-- Management of company documents using rule based access techniques.
+- Management of company documents using rule based access techniques
+* Bulk mail, OCR, remote storage (DFS), mail translator, in-app help
 
 ## Technologies?
 
